@@ -33,6 +33,6 @@ To open the document, you will need Jupyter Notebook or Google Colaboratory. Mak
  If you find a bug (or undesired results) do not hesitate to reach out to me. If you would like to contribute or make any changes, feel free to make contributions on the code.
  
  # License
- MIT License
+ [MIT License](https://github.com/Jenn-mawia/State-of-Financial-Inclusion-in-East-Africa/blob/master/LICENSE)
 
 Copyright (c) [2020] [Jenipher Mawia]
