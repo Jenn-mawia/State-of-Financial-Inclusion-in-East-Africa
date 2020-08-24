@@ -14,7 +14,7 @@ This study provides an African perspective to an individuals financial outcomes 
 A total of 23524 individuals were interviewed and univariate, bivariate and multivariate analysis was done on the respective demographic factors on the data thereof.
 
 # Analysis
-Although all the eight demographic factors were analyzed, only household size, age, gender, relationship with head of household, marital status, level of education, accessibility to a cell phone and type of job showed significant ability to influence an individual towards owning or using a bank account. 
+Although all the nine demographic factors were analyzed, only household size, age, gender, relationship with head of household, marital status, level of education, accessibility to a cell phone and type of job showed significant ability to influence an individual towards owning or using a bank account. 
 
 The study therefore concludes these factors are the major demographic factors that drive the regions' individual financial outcomes. 
 
